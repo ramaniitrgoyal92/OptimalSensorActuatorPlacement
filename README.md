@@ -27,3 +27,10 @@ The final heat profile, actuator precision, and sensor precision values obtained
 
 The temperature evolution profile for the selected grid points. The plots show the evolution of the 1000 trajectories with a given initial uncertainty in the temperature and reduce the final uncertainty/variation in the temperature.
 ![Var_wall_8x6](https://github.com/ramaniitrgoyal92/OptimalSensorActuatorPlacement/blob/main/Result/Var_wall_8x6.png)
+
+
+## Reference
+
+Raman Goyal, Aayushman Sharma, Alex Brito, Saman Mostafavi, “Optimal sensor/actuator placement and control of buildings sub-zones to spatio-temporal profiles”, 18th international IBPSA Building Simulation Conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 1926–1933.
+
+Paper link (https://publications.ibpsa.org/conference/paper/?id=bs2023_1423)
